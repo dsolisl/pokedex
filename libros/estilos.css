@@ -1,0 +1,33 @@
+.contenedor{
+    height: 100px;
+    background-color: palevioletred;
+}
+.blanco{
+    height: 25px;
+}
+.centro{
+   height:  300px;
+}
+.fila{
+height: 300px;
+}
+/* .azul {
+background-color: lightblue;
+} */
+.columna{
+    background-color: lightblue;
+} 
+.completo{
+    height: 20px;
+}
+.espacio{
+    background-color: white;
+    height: 5px;
+}
+.medio{
+height: 50px;
+}
+.pie{
+    height: 100px;
+    background-color: lightblue;
+}

@@ -1,0 +1,25 @@
+.contenedor{
+    display: flex;
+    flex-direction: r;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: gray;
+    height: 300px;
+    align-items: flex-start;
+}
+.cuadrito{
+    width: 100px;
+    height: 100px;
+}
+.arriba{
+    align-self: flex-start;
+}
+.rojo{
+    background-color: red;
+}
+.azul{
+    background-color: blue;
+}
+.verde{
+    background-color: green;
+}

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+/*selector general */
+*{
+    font-family: Roboto, sans-serif;
+}
+h1{
+    color: #e67e22;
+    font-family: "Roboto", sans-serif;
+}
+/*
+span{
+    color: aqua;
+}*/
+.verde{
+    color:green;
+}
+.rojo{
+    color: red;
+}
+.amarillo{
+    color: yellow;
+}
+.violeta{
+    color: violet;
+}
+.naranja{
+    color: orange
+}
+.azul{
+    color:blue;
+}

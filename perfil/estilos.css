@@ -1,0 +1,26 @@
+html {
+    background-color: gray;
+}
+
+h1 {
+    color:blue;
+    text-align: center
+} 
+h2{
+    color: white;
+    text-align: center;
+}
+div{
+    max-width: 700px;
+    max-height: 700px;
+    background-color:#DB0A5B;
+}
+img{
+    width: 84%;
+    margin: 0 auto;
+    display: block;
+}
+p{
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+
+.contenedor{
+    background-color: black;
+    height: 200px;
+}
+.columna{
+    height: 50px;
+}
+.fila{
+    height: 100%;
+}
+.lavender{
+    background-color: violet;
+}
+.wisteria{
+    background-color: blueviolet;
+}
+.rosa{
+    background-color: pink;
+}
+.verde{
+    background-color: green;
+}
+.morado{
+    background-color: blueviolet;
+}
+.rojo{
+    background-color: red;
+}

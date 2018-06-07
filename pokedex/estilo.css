@@ -1,0 +1,58 @@
+.navBar{
+    background-color: red;
+    height: 2cm;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.input{
+    margin: 17px 0;
+}
+
+#logo{
+    height: 100%;
+    align-self: flex-start;
+}
+
+.result{
+    display: inline;
+    border: 5px;
+    border-color: red;
+    
+}
+
+.tipo{
+    width: 75px;
+    
+}
+
+.bicho{
+    width: 225px;
+}
+
+.pokeFriends{
+    height: 375px;
+    width: 250px;
+    border: 5px solid red;
+    margin: 5px;
+    padding: 10px;
+}
+
+.numnombre{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.nombre{
+    font-size: 12;
+    color: darkgray;
+    
+}
+
+.numero{
+    font: calibri;
+    font-size: 35px;
+    color: blue;
+}

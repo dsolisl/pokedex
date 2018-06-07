@@ -1,0 +1,53 @@
+body{
+ 
+    border:2px solid green;
+    
+    /* body {
+        border: 2px solid black;
+    } */
+
+    h1 {
+        padding: 20px 30px 25px 10px;
+        border-width: 2px;
+        border-color: blue;
+        border-style: solid;
+
+         }
+   div{
+       margin: 20px;
+       border-width: 2px;
+       border-color: blueviolet;
+       border-style: double;
+     }
+   body{
+       padding: 20px 30px;
+       border-width: 2px;
+       border-color: red;
+   }
+   button{
+    background: gray;
+    font-size: 18px;
+    padding: 200px;
+    }
+   p{
+       margin-top: 25px;
+       margin-left: 15px;
+   }
+   img{
+       width: 200px;
+   }
+   .texto-energia{
+       font-size:  20px;
+       color: blue;
+   }
+   .p-inline{
+       display: inline;
+   }
+   #serpiente{
+       margin: 25px 30px;
+       border: 5px solid violet;
+   }
+  
+    }
+
+}

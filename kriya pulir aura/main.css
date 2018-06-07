@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+*{
+    font-family: "Roboto+Condensed", sans-serif
+}
+
+html{
+    background-color: azure;
+}
+
+.rosa{
+    color:pink;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    color: violet;
+    text-align: center;
+}
+h4{
+    color: violet;
+    text-align: center;
+}
+img{
+    width: 80%;
+    margin 25 50;
+    display: block;
+}
+div{
+    max-width: 800px;
+    max-height: 700px;
+}
+p{
+    color: black;
+    text-align: center
+}
+
